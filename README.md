@@ -6,10 +6,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sasipriyanka2121/Leetcode/tree/master/0001-two-sum) |
 | [1470-shuffle-the-array](https://github.com/sasipriyanka2121/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/sasipriyanka2121/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/sasipriyanka2121/Leetcode/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sasipriyanka2121/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
